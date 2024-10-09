@@ -1,0 +1,30 @@
+{
+    "CLASS_NAME": "LightSource",
+    "name": "Soleil - EMPHU65",
+    "electron_beam": {
+        "CLASS_NAME": "ElectronBeam",
+        "energy_in_GeV": 2.75,
+        "energy_spread": 0.0010249999999999999,
+        "current": 0.5,
+        "number_of_bunches": 1,
+        "moment_xx": 4.7314153193069304e-08,
+        "moment_xxp": 2.022122456683168e-09,
+        "moment_xpxp": 9.998595715248953e-10,
+        "moment_yy": 1.3460709783415844e-10,
+        "moment_yyp": 2.927201992574258e-11,
+        "moment_ypyp": 2.2189194772723325e-11,
+        "e_x": 0.0002175181675011752,
+        "e_y": 1.1602029901450799e-05,
+        "e_xp": 3.162055615457918e-05,
+        "e_yp": 4.710540815312328e-06
+    },
+    "magnetic_structure": {
+        "B_horizontal": null,
+        "B_vertical": null,
+        "K_vertical": null,
+        "K_horizontal": null,
+        "period_length": 0.065,
+        "number_of_periods": 24,
+        "CLASS_NAME": "Undulator"
+    }
+}
