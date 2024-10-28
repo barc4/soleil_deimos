@@ -3,26 +3,29 @@
 	<nodes>
 		<node id="0" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="Undulator Light Source" position="(14.0, 218.0)" />
 		<node id="1" name="Slit" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_slits.OWSlit" project_name="OASYS1-SYNED" version="" title="Slit" position="(103.0, 218.0)" />
-		<node id="2" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(189.0, 218.0)" />
-		<node id="3" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(218.0, 332.0)" />
-		<node id="4" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(312.0, 403.0)" />
-		<node id="5" name="Grating" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_grating.OWGrating" project_name="OASYS1-SYNED" version="" title="Grating" position="(397.0, 333.0)" />
-		<node id="6" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(467.0, 237.0)" />
+		<node id="2" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="M1A - LE" position="(192.0, 323.0)" />
+		<node id="3" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="M1B" position="(288.0, 322.0)" />
+		<node id="4" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="M1C" position="(287.0, 138.0)" />
+		<node id="5" name="Grating" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_grating.OWGrating" project_name="OASYS1-SYNED" version="" title="Grating" position="(379.0, 321.0)" />
+		<node id="6" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(464.0, 290.0)" />
 		<node id="7" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(547.0, 237.0)" />
 		<node id="8" name="Slit" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_slits.OWSlit" project_name="OASYS1-SYNED" version="" title="Slit" position="(638.0, 237.0)" />
 		<node id="9" name="Slit" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_slits.OWSlit" project_name="OASYS1-SYNED" version="" title="Slit" position="(731.0, 237.0)" />
-		<node id="10" name="Grating" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_grating.OWGrating" project_name="OASYS1-SYNED" version="" title="Grating" position="(369.0, 204.0)" />
-		<node id="11" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(468.0, 141.0)" />
+		<node id="10" name="Grating" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_grating.OWGrating" project_name="OASYS1-SYNED" version="" title="Grating" position="(376.0, 137.0)" />
+		<node id="11" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(467.0, 201.0)" />
 		<node id="12" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(820.0, 192.0)" />
 		<node id="13" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(904.0, 193.0)" />
 		<node id="14" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(822.0, 280.0)" />
 		<node id="15" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="Mirror" position="(906.0, 281.0)" />
 		<node id="16" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1016.0, 194.0)" />
 		<node id="17" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1166.0, 194.0)" />
-		<node id="18" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="Undulator Light Source" position="(18.0, 112.0)" />
+		<node id="18" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="HU52" position="(18.0, 112.0)" />
 		<node id="19" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="Undulator Light Source" position="(16.0, 329.0)" />
 		<node id="20" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1013.0, 284.0)" />
 		<node id="21" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1167.0, 283.0)" />
+		<node id="22" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="HU52" position="(6.0, 661.0)" />
+		<node id="23" name="TC-SLIT" qualified_name="orangecontrib.xoppy.widgets.source.tc_slit.OWtc_slit" project_name="OASYS1-XOPPY" version="" title="TC-SLIT" position="(156.0, 661.0)" />
+		<node id="24" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="M1A - HE" position="(197.0, 138.0)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="0" sink_node_id="1" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
@@ -32,15 +35,20 @@
 		<link id="4" source_node_id="7" sink_node_id="8" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
 		<link id="5" source_node_id="8" sink_node_id="9" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
 		<link id="6" source_node_id="10" sink_node_id="11" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="7" source_node_id="2" sink_node_id="4" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="8" source_node_id="9" sink_node_id="12" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="9" source_node_id="12" sink_node_id="13" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="10" source_node_id="13" sink_node_id="16" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="11" source_node_id="16" sink_node_id="17" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="12" source_node_id="9" sink_node_id="14" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="13" source_node_id="14" sink_node_id="15" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="14" source_node_id="15" sink_node_id="20" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
-		<link id="15" source_node_id="20" sink_node_id="21" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="7" source_node_id="9" sink_node_id="12" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="8" source_node_id="12" sink_node_id="13" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="9" source_node_id="13" sink_node_id="16" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="10" source_node_id="16" sink_node_id="17" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="11" source_node_id="9" sink_node_id="14" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="12" source_node_id="14" sink_node_id="15" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="13" source_node_id="15" sink_node_id="20" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="14" source_node_id="20" sink_node_id="21" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="15" source_node_id="22" sink_node_id="23" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="16" source_node_id="1" sink_node_id="24" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="17" source_node_id="24" sink_node_id="4" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="18" source_node_id="3" sink_node_id="5" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="19" source_node_id="4" sink_node_id="10" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
+		<link id="20" source_node_id="11" sink_node_id="7" source_channel="SynedData" sink_channel="SynedData" enabled="true" />
 	</links>
 	<annotations>
 		<text id="0" rect="(-55.0, 29.0, 150.0, 50.0)" font-family="Helvetica" font-size="16">SYNED model</text>
@@ -49,7 +57,15 @@
 	<thumbnail />
 	<node_properties>
 		<properties node_id="0" format="literal">{'K_horizontal': 1.0, 'K_vertical': 1.0, 'auto_energy': 0.0, 'auto_harmonic_number': 1, 'electron_beam_alpha_h': 0.0, 'electron_beam_alpha_v': 0.0, 'electron_beam_beta_h': 0.0, 'electron_beam_beta_v': 0.0, 'electron_beam_divergence_h': 0.0, 'electron_beam_divergence_v': 0.0, 'electron_beam_emittance_h': 0.0, 'electron_beam_emittance_v': 0.0, 'electron_beam_eta_h': 0.0, 'electron_beam_eta_v': 0.0, 'electron_beam_etap_h': 0.0, 'electron_beam_etap_v': 0.0, 'electron_beam_size_h': 0.0, 'electron_beam_size_v': 0.0, 'electron_energy_in_GeV': 2.0, 'electron_energy_spread': 0.001, 'moment_xpxp': 0.0, 'moment_xx': 0.0, 'moment_xxp': 0.0, 'moment_ypyp': 0.0, 'moment_yy': 0.0, 'moment_yyp': 0.0, 'number_of_bunches': 400, 'number_of_periods': 10, 'period_length': 0.01, 'ring_current': 0.4, 'savedWidgetGeometry': None, 'source_name': 'Undefined', 'syned_file_name': 'Select *.json file', 'type_of_properties': 0}</properties>
-		<properties node_id="1" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'maj_ax': 0.0, 'min_ax': 0.0, 'oe_name': '', 'p': 0.0, 'q': 0.0, 'radius': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
+		<properties node_id="1" format="pickle">gASVugEAAAAAAAB9lCiMD2FuZ2xlX2F6aW11dGhhbJRHAAAAAAAAAACMDGFuZ2xlX3JhZGlhbJRH
+AAAAAAAAAACMBmhlaWdodJRHP1E0BOpKjBWMEGhvcml6b250YWxfc2hpZnSURwAAAAAAAAAAjBBp
+c19hdXRvbWF0aWNfcnVulEsAjAZtYWpfYXiURwAAAAAAAAAAjAZtaW5fYXiURwAAAAAAAAAAjAdv
+ZV9uYW1llIwFcHVwaWyUjAFwlEdANQAAAAAAAIwBcZRHAAAAAAAAAACMBnJhZGl1c5RHAAAAAAAA
+AACME3NhdmVkV2lkZ2V0R2VvbWV0cnmUjANzaXCUjA5fdW5waWNrbGVfdHlwZZSTlIwMUHlRdDUu
+UXRDb3JllIwKUUJ5dGVBcnJheZRDQgHZ0MsAAwAAAAAAXwAAABUAAAI2AAADCQAAAGAAAAA0AAAC
+NQAAAwgAAAAAAAAAAAeAAAAAYAAAADQAAAI1AAADCJSFlIeUUpSMBXNoYXBllEsAjA1zdXJmYWNl
+X3NoYXBllEsAjA52ZXJ0aWNhbF9zaGlmdJRHAAAAAAAAAACMBXdpZHRolEc/UTQE6kqMFXUu
+</properties>
 		<properties node_id="2" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
 		<properties node_id="3" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
 		<properties node_id="4" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
@@ -66,9 +82,65 @@
 		<properties node_id="15" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
 		<properties node_id="16" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'is_automatic_run': 0, 'oe_name': '', 'p': 0.0, 'q': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0}</properties>
 		<properties node_id="17" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'is_automatic_run': 0, 'oe_name': '', 'p': 0.0, 'q': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0}</properties>
-		<properties node_id="18" format="literal">{'K_horizontal': 1.0, 'K_vertical': 1.0, 'auto_energy': 0.0, 'auto_harmonic_number': 1, 'electron_beam_alpha_h': 0.0, 'electron_beam_alpha_v': 0.0, 'electron_beam_beta_h': 0.0, 'electron_beam_beta_v': 0.0, 'electron_beam_divergence_h': 0.0, 'electron_beam_divergence_v': 0.0, 'electron_beam_emittance_h': 0.0, 'electron_beam_emittance_v': 0.0, 'electron_beam_eta_h': 0.0, 'electron_beam_eta_v': 0.0, 'electron_beam_etap_h': 0.0, 'electron_beam_etap_v': 0.0, 'electron_beam_size_h': 0.0, 'electron_beam_size_v': 0.0, 'electron_energy_in_GeV': 2.0, 'electron_energy_spread': 0.001, 'moment_xpxp': 0.0, 'moment_xx': 0.0, 'moment_xxp': 0.0, 'moment_ypyp': 0.0, 'moment_yy': 0.0, 'moment_yyp': 0.0, 'number_of_bunches': 400, 'number_of_periods': 10, 'period_length': 0.01, 'ring_current': 0.4, 'savedWidgetGeometry': None, 'source_name': 'Undefined', 'syned_file_name': 'Select *.json file', 'type_of_properties': 0}</properties>
+		<properties node_id="18" format="pickle">gASViwQAAAAAAAB9lCiMDEtfaG9yaXpvbnRhbJROjApLX3ZlcnRpY2FslE6MC2F1dG9fZW5lcmd5
+lEcAAAAAAAAAAIwUYXV0b19oYXJtb25pY19udW1iZXKUSwGMFWVsZWN0cm9uX2JlYW1fYWxwaGFf
+aJRHAAAAAAAAAACMFWVsZWN0cm9uX2JlYW1fYWxwaGFfdpRHAAAAAAAAAACMFGVsZWN0cm9uX2Jl
+YW1fYmV0YV9olEcAAAAAAAAAAIwUZWxlY3Ryb25fYmVhbV9iZXRhX3aURwAAAAAAAAAAjBplbGVj
+dHJvbl9iZWFtX2RpdmVyZ2VuY2VfaJRHPwCUGhcC2g+MGmVsZWN0cm9uX2JlYW1fZGl2ZXJnZW5j
+ZV92lEc+08HnEMarYIwZZWxlY3Ryb25fYmVhbV9lbWl0dGFuY2VfaJRHAAAAAAAAAACMGWVsZWN0
+cm9uX2JlYW1fZW1pdHRhbmNlX3aURwAAAAAAAAAAjBNlbGVjdHJvbl9iZWFtX2V0YV9olEcAAAAA
+AAAAAIwTZWxlY3Ryb25fYmVhbV9ldGFfdpRHAAAAAAAAAACMFGVsZWN0cm9uX2JlYW1fZXRhcF9o
+lEcAAAAAAAAAAIwUZWxlY3Ryb25fYmVhbV9ldGFwX3aURwAAAAAAAAAAjBRlbGVjdHJvbl9iZWFt
+X3NpemVfaJRHPytEe1A1gaOMFGVsZWN0cm9uX2JlYW1fc2l6ZV92lEc+5XqX+umVvowWZWxlY3Ry
+b25fZW5lcmd5X2luX0dlVpRHQAYAAAAAAACMFmVsZWN0cm9uX2VuZXJneV9zcHJlYWSURz9Qyyle
+nhsIjAttb21lbnRfeHB4cJRHPhEtjxDZ88uMCW1vbWVudF94eJRHPmc8IqVKX46MCm1vbWVudF94
+eHCURz3PKUwyUZRUjAttb21lbnRfeXB5cJRHPbhlsqtVhGSMCW1vbWVudF95eZRHPdzVekX7MpWM
+Cm1vbWVudF95eXCUR72vZZGwfNjmjBFudW1iZXJfb2ZfYnVuY2hlc5RLAYwRbnVtYmVyX29mX3Bl
+cmlvZHOUR0A+AAAAAAAAjA1wZXJpb2RfbGVuZ3RolEc/qtQsPJ7swIwMcmluZ19jdXJyZW50lEc/
+4AAAAAAAAIwTc2F2ZWRXaWRnZXRHZW9tZXRyeZSMA3NpcJSMDl91bnBpY2tsZV90eXBllJOUjAxQ
+eVF0NS5RdENvcmWUjApRQnl0ZUFycmF5lENCAdnQywADAAAAAAisAAAD8gAACnkAAAbbAAAIrQAA
+BB8AAAp4AAAG2gAAAAAAAAAADwAAAAitAAAEHwAACngAAAbalIWUh5RSlIwLc291cmNlX25hbWWU
+jA1Tb2xlaWwgLSBIVTUylIwPc3luZWRfZmlsZV9uYW1llIxWQzovVXNlcnMvcmFmYWUvV29yay9w
+cm9qZWN0cy9zb2xlaWxfZGVpbW9zL3dvcmtzcGFjZXMvcmVzb3VyY2VzL29hc3lzX3NvbGVpbF9o
+dTUyLmpzb26UjBJ0eXBlX29mX3Byb3BlcnRpZXOUSwB1Lg==
+</properties>
 		<properties node_id="19" format="literal">{'K_horizontal': 1.0, 'K_vertical': 1.0, 'auto_energy': 0.0, 'auto_harmonic_number': 1, 'electron_beam_alpha_h': 0.0, 'electron_beam_alpha_v': 0.0, 'electron_beam_beta_h': 0.0, 'electron_beam_beta_v': 0.0, 'electron_beam_divergence_h': 0.0, 'electron_beam_divergence_v': 0.0, 'electron_beam_emittance_h': 0.0, 'electron_beam_emittance_v': 0.0, 'electron_beam_eta_h': 0.0, 'electron_beam_eta_v': 0.0, 'electron_beam_etap_h': 0.0, 'electron_beam_etap_v': 0.0, 'electron_beam_size_h': 0.0, 'electron_beam_size_v': 0.0, 'electron_energy_in_GeV': 2.0, 'electron_energy_spread': 0.001, 'moment_xpxp': 0.0, 'moment_xx': 0.0, 'moment_xxp': 0.0, 'moment_ypyp': 0.0, 'moment_yy': 0.0, 'moment_yyp': 0.0, 'number_of_bunches': 400, 'number_of_periods': 10, 'period_length': 0.01, 'ring_current': 0.4, 'savedWidgetGeometry': None, 'source_name': 'Undefined', 'syned_file_name': 'Select *.json file', 'type_of_properties': 0}</properties>
 		<properties node_id="20" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'is_automatic_run': 0, 'oe_name': '', 'p': 0.0, 'q': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0}</properties>
 		<properties node_id="21" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'is_automatic_run': 0, 'oe_name': '', 'p': 0.0, 'q': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0}</properties>
+		<properties node_id="22" format="pickle">gASVmwQAAAAAAAB9lCiMDEtfaG9yaXpvbnRhbJRHAAAAAAAAAACMCktfdmVydGljYWyURz/rjB/I
+8yN5jAthdXRvX2VuZXJneZRHQI9AAAAAAACMFGF1dG9faGFybW9uaWNfbnVtYmVylEsBjBVlbGVj
+dHJvbl9iZWFtX2FscGhhX2iURwAAAAAAAAAAjBVlbGVjdHJvbl9iZWFtX2FscGhhX3aURwAAAAAA
+AAAAjBRlbGVjdHJvbl9iZWFtX2JldGFfaJRHAAAAAAAAAACMFGVsZWN0cm9uX2JlYW1fYmV0YV92
+lEcAAAAAAAAAAIwaZWxlY3Ryb25fYmVhbV9kaXZlcmdlbmNlX2iURz8AlBoXAtoPjBplbGVjdHJv
+bl9iZWFtX2RpdmVyZ2VuY2VfdpRHPtPB5xDGq2CMGWVsZWN0cm9uX2JlYW1fZW1pdHRhbmNlX2iU
+RwAAAAAAAAAAjBllbGVjdHJvbl9iZWFtX2VtaXR0YW5jZV92lEcAAAAAAAAAAIwTZWxlY3Ryb25f
+YmVhbV9ldGFfaJRHAAAAAAAAAACME2VsZWN0cm9uX2JlYW1fZXRhX3aURwAAAAAAAAAAjBRlbGVj
+dHJvbl9iZWFtX2V0YXBfaJRHAAAAAAAAAACMFGVsZWN0cm9uX2JlYW1fZXRhcF92lEcAAAAAAAAA
+AIwUZWxlY3Ryb25fYmVhbV9zaXplX2iURz8rRHtQNYGjjBRlbGVjdHJvbl9iZWFtX3NpemVfdpRH
+PuV6l/rplb6MFmVsZWN0cm9uX2VuZXJneV9pbl9HZVaUR0AGAAAAAAAAjBZlbGVjdHJvbl9lbmVy
+Z3lfc3ByZWFklEc/UMspXp4bCIwLbW9tZW50X3hweHCURz4RLY8Q2fPLjAltb21lbnRfeHiURz5n
+PCKlSl+OjAptb21lbnRfeHhwlEc9zylMMlGUVIwLbW9tZW50X3lweXCURz24ZbKrVYRkjAltb21l
+bnRfeXmURz3c1XpF+zKVjAptb21lbnRfeXlwlEe9r2WRsHzY5owRbnVtYmVyX29mX2J1bmNoZXOU
+SwGMEW51bWJlcl9vZl9wZXJpb2RzlEdAPgAAAAAAAIwNcGVyaW9kX2xlbmd0aJRHP6rULDye7MCM
+DHJpbmdfY3VycmVudJRHP+AAAAAAAACME3NhdmVkV2lkZ2V0R2VvbWV0cnmUjANzaXCUjA5fdW5w
+aWNrbGVfdHlwZZSTlIwMUHlRdDUuUXRDb3JllIwKUUJ5dGVBcnJheZRDQgHZ0MsAAwAAAAAG2AAA
+A8MAAAilAAAGrAAABtkAAAPwAAAIpAAABqsAAAAAAAAAAA8AAAAG2QAAA/AAAAikAAAGq5SFlIeU
+UpSMC3NvdXJjZV9uYW1llIwNU29sZWlsIC0gSFU1MpSMD3N5bmVkX2ZpbGVfbmFtZZSMVkM6L1Vz
+ZXJzL3JhZmFlL1dvcmsvcHJvamVjdHMvc29sZWlsX2RlaW1vcy93b3Jrc3BhY2VzL3Jlc291cmNl
+cy9vYXN5c19zb2xlaWxfaHU1Mi5qc29ulIwSdHlwZV9vZl9wcm9wZXJ0aWVzlEsBdS4=
+</properties>
+		<properties node_id="23" format="pickle">gASVMQIAAAAAAAB9lCiMCERJU1RBTkNFlEdANQAAAAAAAIwXRUxFQ1RST05CRUFNRElWRVJHRU5D
+RUiURz8AlBoXAtoPjBdFTEVDVFJPTkJFQU1ESVZFUkdFTkNFVpRHPtPB5xDGq2CMEUVMRUNUUk9O
+QkVBTVNJWkVIlEc/K0R7UDWBo4wRRUxFQ1RST05CRUFNU0laRVaURz7lepf66ZW+jA9FTEVDVFJP
+TkNVUlJFTlSURz/gAAAAAAAAjA5FTEVDVFJPTkVORVJHWZRHQAYAAAAAAACMFEVMRUNUUk9ORU5F
+UkdZU1BSRUFElEc/UMspXp4bCIwER0FQSJRHP3E0BOtA1nuMBEdBUFaURz9xNATrQNZ7jAlIQVJN
+T05JQ1OUjAYxLDMsIDWUjARLTUFYlEdACAAAAAAAAIwES01JTpRHP1BiTdLxqfyMB0tQT0lOVFOU
+SwqMBk1FVEhPRJRLAowITlBFUklPRFOUSx6MCFBFUklPRElElEc/qtQsPJ7swIwNVVNFRU1JVFRB
+TkNFU5RLAYwTc2F2ZWRXaWRnZXRHZW9tZXRyeZSMA3NpcJSMDl91bnBpY2tsZV90eXBllJOUjAxQ
+eVF0NS5RdENvcmWUjApRQnl0ZUFycmF5lENCAdnQywADAAAAAAYVAAAAzAAACz4AAAOnAAAGFgAA
+AOsAAAs9AAADpgAAAAEAAAAABQAAAAYWAAAA6wAACz0AAAOmlIWUh5RSlIwJdmlld190eXBllEsB
+dS4=
+</properties>
+		<properties node_id="24" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
 	</node_properties>
 </scheme>
