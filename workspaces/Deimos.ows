@@ -24,7 +24,7 @@
 		<node id="20" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1013.0, 284.0)" />
 		<node id="21" name="Screen" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_screen.OWScreen" project_name="OASYS1-SYNED" version="" title="Screen" position="(1167.0, 283.0)" />
 		<node id="22" name="Undulator Light Source" qualified_name="orangecontrib.syned.widgets.light_sources.ow_undulator_light_source.OWUndulatorLightSource" project_name="OASYS1-SYNED" version="" title="HU52" position="(6.0, 661.0)" />
-		<node id="23" name="TC-SLIT" qualified_name="orangecontrib.xoppy.widgets.source.tc_slit.OWtc_slit" project_name="OASYS1-XOPPY" version="" title="TC-SLIT" position="(156.0, 661.0)" />
+		<node id="23" name="TC-SLIT" qualified_name="orangecontrib.xoppy.widgets.source.tc_slit.OWtc_slit" project_name="OASYS1-XOPPY" version="" title="TC-SLIT" position="(155.0, 661.0)" />
 		<node id="24" name="Mirror" qualified_name="orangecontrib.syned.widgets.beamline_elements.ow_mirror.OWMirror" project_name="OASYS1-SYNED" version="" title="M1A - HE" position="(197.0, 138.0)" />
 	</nodes>
 	<links>
@@ -137,8 +137,8 @@ UkdZU1BSRUFElEc/UMspXp4bCIwER0FQSJRHP3E0BOtA1nuMBEdBUFaURz9xNATrQNZ7jAlIQVJN
 T05JQ1OUjAYxLDMsIDWUjARLTUFYlEdACAAAAAAAAIwES01JTpRHP1BiTdLxqfyMB0tQT0lOVFOU
 SwqMBk1FVEhPRJRLAowITlBFUklPRFOUSx6MCFBFUklPRElElEc/qtQsPJ7swIwNVVNFRU1JVFRB
 TkNFU5RLAYwTc2F2ZWRXaWRnZXRHZW9tZXRyeZSMA3NpcJSMDl91bnBpY2tsZV90eXBllJOUjAxQ
-eVF0NS5RdENvcmWUjApRQnl0ZUFycmF5lENCAdnQywADAAAAAAYVAAAAzAAACz4AAAOnAAAGFgAA
-AOsAAAs9AAADpgAAAAEAAAAABQAAAAYWAAAA6wAACz0AAAOmlIWUh5RSlIwJdmlld190eXBllEsB
+eVF0NS5RdENvcmWUjApRQnl0ZUFycmF5lENCAdnQywADAAAAAABfAAAAFQAABYgAAALwAAAAYAAA
+ADQAAAWHAAAC7wAAAAAAAAAAB4AAAABgAAAANAAABYcAAALvlIWUh5RSlIwJdmlld190eXBllEsB
 dS4=
 </properties>
 		<properties node_id="24" format="literal">{'angle_azimuthal': 0.0, 'angle_radial': 0.0, 'at_infinty_surface': 0.0, 'calculate_ellipsoid_parameter': 0, 'calculate_hyperboloid_parameter': 0, 'calculate_paraboloid_parameter': 0, 'calculate_sphere_parameter': 0, 'calculate_torus_parameter': 0, 'coating_material': 'Pt', 'coating_thickness': 0.0, 'convexity': 0, 'cylinder_direction': 0, 'height': 0.0, 'horizontal_shift': 0.0, 'is_automatic_run': 0, 'is_cylinder': 1, 'maj_ax': 0.0, 'maj_ax_surface': 0.0, 'maj_radius_surface': 0.0, 'min_ax': 0.0, 'min_ax_surface': 0.0, 'min_radius_surface': 0.0, 'oe_name': '', 'p': 0.0, 'p_surface': 0.0, 'parabola_parameter_surface': 0.0, 'q': 0.0, 'q_surface': 0.0, 'radius': 0.0, 'radius_surface': 0.0, 'savedWidgetGeometry': None, 'shape': 0, 'surface_shape': 0, 'vertical_shift': 0.0, 'width': 0.0}</properties>
