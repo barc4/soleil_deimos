@@ -12,19 +12,13 @@
         "moment_xpxp": 9.998891189028644e-10,
         "moment_yy": 1.0489710618811881e-10,
         "moment_yyp": -1.4277590841584156e-11,
-        "moment_ypyp": 2.2189176458376455e-11,
-        "e_x": 0.0002080345658255325,
-        "e_y": 1.0241928831432038e-05,
-        "e_xp": 3.162102336900032e-05,
-        "e_yp": 4.7105388713369575e-06
+        "moment_ypyp": 2.2189176458376455e-11
     },
     "magnetic_structure": {
-        "B_horizontal": null,
-        "B_vertical": null,
-        "K_vertical": null,
-        "K_horizontal": null,
+        "CLASS_NAME": "Undulator",
+        "K_vertical": 2.4148775905065296,
+        "K_horizontal": 0.0,
         "period_length": 0.0524,
-        "number_of_periods": 30,
-        "CLASS_NAME": "Undulator"
+        "number_of_periods": 30.0
     }
 }
